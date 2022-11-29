@@ -130,7 +130,7 @@
     border-width: 10px; 
     border-style: solid; 
     border-color: transparent transparent #f6f6f6 transparent; 
-    position: absolute;
+    position: absolute; 
     right: 5px;
     /* Specifies how far an absolutely positioned box's right margin edge is offset to the left of the right edge of the box's 'containing block'.*/
     top: -20px;
