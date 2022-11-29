@@ -172,7 +172,7 @@
     max-width: 100%;
     /* Allows authors to constrain content width to a certain range.*/
   }
-  .landing .intro-text h1 {
+  .landing .intro-text h1 { 
     margin: 0;
     font-weight: bold;
     font-size: 50px;
