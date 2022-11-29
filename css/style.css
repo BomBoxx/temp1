@@ -71,7 +71,7 @@
   .header { 
     padding: 20px; 
   }
-  .header .container {
+  .header .container { 
     display: flex;
      /*  The default display value for most elements is block or inline.*/
     justify-content: space-between;
