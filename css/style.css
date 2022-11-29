@@ -244,7 +244,7 @@
       /* Describes how inline contents of a block are horizontally aligned if the contents do not completely fill the line box.*/
     }
   }
-  .services .services-content .srv i {
+  .services .services-content .srv i { 
     color: var(--main-color);
     /* Sets the color of an element's text*/
     flex-basis: 60px;
