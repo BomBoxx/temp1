@@ -192,7 +192,7 @@
     /* Sets the background color of an element.*/
   }
   .features .container { 
-    display: grid;
+    display: grid; 
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     /* specifies, as a space-separated track list, the line names and track sizing functions of the grid.*/
     grid-gap: 20px;
