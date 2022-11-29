@@ -109,7 +109,7 @@
   .header .links .icon span:last-child { 
     width: 100%; 
   }
-  .header .links ul {
+  .header .links ul { 
     list-style: none;
     /* The list-style-type property specifies the type of list item marker.*/
     margin: 0;
