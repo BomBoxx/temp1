@@ -89,7 +89,7 @@
     width: 100%; 
   }
   .header .links .icon { 
-    width: 30px;
+    width: 30px; 
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-end;
