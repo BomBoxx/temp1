@@ -412,7 +412,7 @@
     padding-bottom: var(--section-padding);
     text-align: center;
   }
-  .contact .info .label {
+  .contact .info .label { 
     font-size: 35px;
     font-weight: 800;
     color: var(--secondary-color);
