@@ -106,7 +106,7 @@
     width: 60%; 
     transition: var(--main-duration); 
   }
-  .header .links .icon span:last-child {
+  .header .links .icon span:last-child { 
     width: 100%;
   }
   .header .links ul {
