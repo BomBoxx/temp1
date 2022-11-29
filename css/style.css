@@ -79,7 +79,7 @@
     align-items: center; 
      /*Use the align-items property to align the items vertically.*/
   }
-  .header .logo {
+  .header .logo { 
     width: 60px;
   }
   .header .links {
