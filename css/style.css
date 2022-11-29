@@ -146,7 +146,7 @@
     color: #333;
     transition: var(--main-duration); 
   }
-  .header .links ul li a:hover {
+  .header .links ul li a:hover { 
     padding-left: 25px;
   }
   .header .links ul li:not(:last-child) a {
