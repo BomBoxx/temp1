@@ -136,7 +136,7 @@
     top: -20px; 
   }
   .header .links:hover ul { 
-    display: block;
+    display: block; 
     /* In combination with 'float' and 'position', determines the type of box or boxes that are generated for an element.*/
   }
   .header .links ul li a {
