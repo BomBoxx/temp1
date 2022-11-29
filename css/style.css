@@ -52,7 +52,7 @@
     letter-spacing: -3px; 
     margin: 0; 
   }
-  .special-heading + p {
+  .special-heading + p { 
     margin: -30px 0 0;
     font-size: 20px;
     text-align: center;
