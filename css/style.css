@@ -69,7 +69,7 @@
   /* End Components */
   /* Start Header */
   .header { 
-    padding: 20px;
+    padding: 20px; 
   }
   .header .container {
     display: flex;
