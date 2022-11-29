@@ -139,7 +139,7 @@
     display: block; 
     /* In combination with 'float' and 'position', determines the type of box or boxes that are generated for an element.*/
   }
-  .header .links ul li a {
+  .header .links ul li a { 
     display: block;
     padding: 15px;
     text-decoration: none;
