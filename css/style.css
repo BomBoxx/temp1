@@ -86,7 +86,7 @@
     position: relative; 
   }
   .header .links:hover .icon span:nth-child(2) { 
-    width: 100%;
+    width: 100%; 
   }
   .header .links .icon {
     width: 30px;
