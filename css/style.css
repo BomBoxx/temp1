@@ -197,7 +197,7 @@
     /* specifies, as a space-separated track list, the line names and track sizing functions of the grid.*/
     grid-gap: 20px; 
   }
-  .features .feat {
+  .features .feat { 
     padding: 20px;
     text-align: center;
     /* Describes how inline contents of a block are horizontally aligned if the contents do not completely fill the line box.*/
