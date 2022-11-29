@@ -104,7 +104,7 @@
   }
   .header .links .icon span:nth-child(2) { 
     width: 60%; 
-    transition: var(--main-duration);
+    transition: var(--main-duration); 
   }
   .header .links .icon span:last-child {
     width: 100%;
