@@ -126,7 +126,7 @@
     /* For a positioned box, the 'z-index' property specifies the stack level of the box in the current stacking context and whether the box establishes a local stacking context.*/
   }
   .header .links ul::before { 
-    content: "";
+    content: ""; 
     border-width: 10px;
     border-style: solid;
     border-color: transparent transparent #f6f6f6 transparent;
