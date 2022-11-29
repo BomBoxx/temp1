@@ -185,7 +185,7 @@
   }
   /*  End Landing Section */
   /*  Start Features */
-  .features {
+  .features { 
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     background-color: var(--section-background);
